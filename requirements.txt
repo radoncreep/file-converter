@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+cffi==1.16.0
+charset-normalizer==3.3.2
+cryptography==42.0.5
+pdfminer.six==20231228
+pycparser==2.22
+soupsieve==2.5
